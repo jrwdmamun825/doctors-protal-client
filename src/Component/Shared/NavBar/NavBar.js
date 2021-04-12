@@ -18,16 +18,16 @@ const NavBar = () => {
                                 <a className="nav-link mr-5" href="#">About</a>
                             </li>
                             <li className="nav-item me-4">
-                                <a className="nav-link mr-5 text-white" href="#">Dental Services</a>
+                                <a style={{color: '#117864'}} className="nav-link mr-5" href="#">Dental Services</a>
                             </li>
                             <li className="nav-item me-4">
-                                <a className="nav-link mr-5 text-white" href="#">Reviews</a>
+                                <a style={{color: '#117864'}} className="nav-link mr-5 " href="#">Reviews</a>
                             </li>
                             <li className="nav-item me-4 text-white">
-                                <a className="nav-link mr-5 text-white" href="#">Blogs</a>
+                                <a style={{color: '#117864'}} className="nav-link mr-5 " href="#">Blogs</a>
                             </li>
                             <li className="nav-item me-4 text-white">
-                                <a className="nav-link mr-5 text-white" href="#">Contact Us</a>
+                                <a style={{color: '#117864'}} className="nav-link mr-5 " href="#">Contact Us</a>
                             </li>
                             
 
