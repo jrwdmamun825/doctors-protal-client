@@ -1,5 +1,5 @@
-1. doctor portal client
-2.has react
-3.Router
-4.Auth (firebase integrated)
-5.API connection with localhost (node and mongodb)
+1. doctor portal client	 	
+3.has react 	
+4.Router 	
+5.Auth (firebase integrated) 	
+6.API connection with localhost (node and mongodb) 	
